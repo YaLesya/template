@@ -1,0 +1,9 @@
+{
+  "name": "hirely",
+  "version": "0.1.0",
+  "description": "hirely",
+  "main": "index.js",
+   "dependencies": {
+    "browser-sync": "^2.8.2"
+  }
+}

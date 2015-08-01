@@ -1,0 +1,19 @@
+{
+  "name": "hirely",
+  "version": "0.1.0",
+  "authors": [
+    "Lesya Yavtushenko <jalesya@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "normalize.css": "~3.0.3"
+  }
+}
